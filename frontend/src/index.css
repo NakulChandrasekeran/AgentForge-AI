@@ -1,0 +1,79 @@
+
+/* AgentForge AI - Global Styles */
+
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Formatted AI Research Reports */
+
+.report-content {
+  padding: 28px;
+  background: #0b1322;
+  border: 1px solid #34415b;
+  border-radius: 12px;
+  overflow-wrap: anywhere;
+}
+
+.report-content h1 {
+  color: #f1f5ff;
+  font-size: 26px;
+  margin: 0 0 24px;
+  line-height: 1.3;
+}
+
+.report-content h2 {
+  color: #b5aaff;
+  font-size: 20px;
+  margin: 30px 0 14px;
+  line-height: 1.4;
+}
+
+.report-content h3 {
+  color: #dce4ff;
+  font-size: 17px;
+  margin: 22px 0 12px;
+}
+
+.report-content p {
+  color: #c4cee1;
+  font-size: 14px;
+  line-height: 1.9;
+  margin: 12px 0;
+}
+
+.report-content ul,
+.report-content ol {
+  padding-left: 24px;
+  margin: 14px 0;
+}
+
+.report-content li {
+  color: #c4cee1;
+  font-size: 14px;
+  line-height: 1.9;
+  margin-bottom: 8px;
+}
+
+.report-content strong {
+  color: #f1f5ff;
+  font-weight: 700;
+}
+
+.report-content code {
+  background: #202b45;
+  color: #c5baff;
+  padding: 3px 6px;
+  border-radius: 5px;
+}
+
+.report-content blockquote {
+  border-left: 3px solid #8c7dff;
+  padding-left: 16px;
+  margin: 20px 0;
+  color: #aebbd4;
+}
